@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7c53569-473d-4f8f-a399-2ce9498311f0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2d8783c7af0442318483a199a473c55b175e00/40/5151335b/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2d8783c7af0442318483a199a473c55b175e00/cb/367bd1f0/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/90551af678e744f281eb5fcd0aa81afc1d200/a4/2b80599e/SharedVariable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/90551af678e744f281eb5fcd0aa81afc1d200/b8/e3eaa0c7/Task.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/CameraControl/C_CameraControls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/EnemyController/ConfirmDistance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/EnemyController/DashAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/EnemyController/DetectPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/EnemyController/ShieldTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/EventManager/EventManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/Documents/unity/Program/Test Program/Assets/C#/Package/InventorySlot.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/Package/InventorySlot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/PlayerController/FSM/FSM.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/PlayerController/PBuffAssault.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/PlayerController/PCombo3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/PlayerController/PDuck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/PlayerController/PHit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/PlayerController/PLeftHeavyBlow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/PlayerController/PRightHeavyBlow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/test/EventTriggerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/C#/test/MyEventSubscriber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventInterfaces.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventTrigger.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerFSM.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../暂存/PlayerInput/LifecycleManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../暂存/PlayerLocomotion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../暂存/通用/CameraManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../暂存/通用/InputManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../暂存/通用/PlayerManager.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2jOjXhnukA4SmSqhQyOyEL29dVP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C#&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\AV236\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\AV236\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\AV236\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="E:\Program Files\2022.3.37f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;E:\Documents\unity\Program\Test Program&quot; -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="E:\Documents\unity\Program\Test Program" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="E:\Program Files\2022.3.37f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;E:\Documents\unity\Program\Test Program&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="E:\Documents\unity\Program\Test Program" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7c53569-473d-4f8f-a399-2ce9498311f0" name="Changes" comment="" />
+      <created>1721265059384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721265059384</updated>
+      <workItem from="1721265061287" duration="6500000" />
+      <workItem from="1721277714402" duration="14369000" />
+      <workItem from="1721346326225" duration="10591000" />
+      <workItem from="1721364982490" duration="14595000" />
+      <workItem from="1721389718495" duration="309000" />
+      <workItem from="1721433565511" duration="13036000" />
+      <workItem from="1721450317851" duration="15516000" />
+      <workItem from="1721632318356" duration="6399000" />
+      <workItem from="1721693199321" duration="10115000" />
+      <workItem from="1721799008855" duration="11182000" />
+      <workItem from="1721886060232" duration="11635000" />
+      <workItem from="1721972845031" duration="11384000" />
+      <workItem from="1722058628105" duration="10522000" />
+      <workItem from="1722231281997" duration="12357000" />
+      <workItem from="1722317050581" duration="12983000" />
+      <workItem from="1722384639874" duration="9203000" />
+      <workItem from="1722403604602" duration="9132000" />
+      <workItem from="1722471015096" duration="11616000" />
+      <workItem from="1722576889702" duration="11657000" />
+      <workItem from="1722662773475" duration="12262000" />
+      <workItem from="1722836720068" duration="11302000" />
+      <workItem from="1722921823431" duration="6015000" />
+      <workItem from="1722938833583" duration="387000" />
+      <workItem from="1723008525446" duration="5583000" />
+      <workItem from="1723187079369" duration="6540000" />
+      <workItem from="1723249695051" duration="10870000" />
+      <workItem from="1723264338623" duration="15259000" />
+      <workItem from="1723441120352" duration="11676000" />
+      <workItem from="1723529047932" duration="10148000" />
+      <workItem from="1723551522462" duration="5063000" />
+      <workItem from="1723614394486" duration="8039000" />
+      <workItem from="1723623376641" duration="19000" />
+      <workItem from="1723625638351" duration="352000" />
+      <workItem from="1723635082559" duration="6672000" />
+      <workItem from="1723642744136" duration="1413000" />
+      <workItem from="1723644192738" duration="165000" />
+      <workItem from="1723679907020" duration="840000" />
+      <workItem from="1723682122621" duration="10577000" />
+      <workItem from="1723696937431" duration="15514000" />
+      <workItem from="1723714767161" duration="4753000" />
+      <workItem from="1723786832483" duration="11924000" />
+      <workItem from="1723805288765" duration="1001000" />
+      <workItem from="1723874494649" duration="10674000" />
+      <workItem from="1723889898449" duration="589000" />
+      <workItem from="1723894853159" duration="9221000" />
+      <workItem from="1723940419304" duration="11570000" />
+      <workItem from="1724045971885" duration="12009000" />
+      <workItem from="1724110416136" duration="14000000" />
+      <workItem from="1724128380536" duration="15911000" />
+      <workItem from="1724153170970" duration="4426000" />
+      <workItem from="1724161593005" duration="2860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
