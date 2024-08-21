@@ -1,0 +1,4 @@
+E:/Documents/unity/Program/Test[[:space:]]Program/Assets/MMD4Mecanim/Plugins/MMD4MecanimBulletPhysics/iOS/libBulletPhysics.a filter=lfs diff=lfs merge=lfs -text
+E:/Documents/unity/Program/Test[[:space:]]Program/Assets/MMD4Mecanim/Plugins/MMD4MecanimBulletPhysics/iOS/libMMD4MecanimBulletPhysics.a filter=lfs diff=lfs merge=lfs -text
+E:/Documents/unity/Program/Test[[:space:]]Program/Assets/MMD4Mecanim/Plugins/MMD4MecanimBulletPhysics[[:space:]]2.75/iOS/libBulletPhysics.a filter=lfs diff=lfs merge=lfs -text
+E:/Documents/unity/Program/Test[[:space:]]Program/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
